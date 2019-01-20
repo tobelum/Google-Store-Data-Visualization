@@ -1,0 +1,2 @@
+# Google-Store-Data-Visualization
+Data from Google Online Merchandise Stores (GStore) was obtained from Kaggle.com. The data was cleaned and converted from json files to csv files using R. The data was then normalized using Excel to create tables before being loaded into a SQL database as data warehouse. From the data, a star dimensional model was create and the SQL database was connected to Tableau to provide data insights.
